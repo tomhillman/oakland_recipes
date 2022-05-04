@@ -16,7 +16,7 @@ Prep 🕘 30 minutes day before<br>
 Cooking 🕘 1-2 hrs (make it a pizza party)
 <br>
 <br>
-*serves 6 small/medium or 4 large pies*
+*serves 6-12 (6 medium pies)*
 <br>
 <br>
 ## Ingredients
