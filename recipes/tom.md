@@ -9,11 +9,11 @@ nav_order: 3
 ![Photo of yummy pizza](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_450,q_80,w_800/v1423770879/bonappetit_cook-like-a-pro-mario-batali-s-technique-to-classic-homemade-pizza.jpg)
 <br>
 <br>
-Source: [The Bread Baker's Apprentice](https://www.indiebound.org/book/9781607748656) by Peter Reinhart, photo Bon Appetit.*
+Source: *[The Bread Baker's Apprentice](https://www.indiebound.org/book/9781607748656)* by Peter Reinhart, photo *Bon Appetit.*
 <br>
 <br>
 Prep 🕘 30 minutes day before<br> 
-Cooking 🕘 2 hrs (make it a pizza party)
+Cooking 🕘 1-2 hrs (make it a pizza party)
 <br>
 <br>
 *serves 6 small/medium or 4 large pies*
@@ -63,6 +63,7 @@ As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza,
 ### Step 3
 <input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer if made ahead. <br>
 
+---
 *Day of*
 ### Bake
 ####  Step 1
