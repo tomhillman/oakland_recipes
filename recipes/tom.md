@@ -45,7 +45,7 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
 
 ## Preparation
-*Make dough and sauce 1-3 days before baking.*
+*Make the dough and sauce 1-3 days before pizza night.*
 
 ### Dough
 ####  **Step 1**
