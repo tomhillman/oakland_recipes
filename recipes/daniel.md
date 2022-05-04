@@ -9,7 +9,7 @@ nav_order: 5
 [![Photo of yummy Citrus Chicken Recipe on a dining plate](https://github.com/tomhillman/oakland_recipes/blob/9c46a5c1a9bc42f4c4ea3bfc9f6da8a091d8fe47/recipes/daniel_chicken.jpg?raw=true)](https://www.alisoneroman.com/nothing-fancy)
 <br>
 <br>
-Source: Alison Roman, [Nothing Fancy](https://www.alisoneroman.com/nothing-fancy)
+Source: Alison Roman, *[Nothing Fancy](https://www.alisoneroman.com/nothing-fancy)*
 <br>
 <br>
 Cooking 🕘 1 hour 30 min
