@@ -41,7 +41,7 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 <input type="checkbox" enabled /> Dash crushed red pepper flakes
 
 ### Toppings
-As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
+As preferred. For a popular dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
 
 ## Preparation
 
