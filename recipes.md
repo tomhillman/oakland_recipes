@@ -16,7 +16,7 @@ has_toc: false
 [Orecchiette With Bacony Collards & Cannellini Beans](recipes/katie.md) from Katie Heuser
 <br>
 <br>
-[Tom's Home-Made Pizza](recipes/tom.md) from Thomas Hillman
+[Pizza Napolitana](recipes/tom.md) from Thomas Hillman
 <br>
 <br>
 [Coconut Ginger Carrot Soup](recipes/hugh.md) from Hugh Kelley
