@@ -45,7 +45,7 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
 
 ## Preparation
-*Day before*
+*Make dough and sauce 1-3 days before baking.*
 
 ### Dough
 ####  **Step 1**
@@ -63,8 +63,6 @@ As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza,
 #### **Step 3**
 <input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer if made ahead. <br>
 
-
-*Day of*
 ### Bake
 ####  **Step 1**
 <input type="checkbox" enabled /> On the day you plan to make the pizza, remove the desired number of dough balls from the refrigerator 2 hours before making the pizza. Before letting the dough rest at room temperature for 2 hours, dust the counter with flour, and then mist the counter with spray oil. Place the dough balls on top of the floured counter and sprinkle them with flour; dust your hands with flour. Gently press the dough into flat disks about 1/2 inch thick and 5 inches in diameter. Sprinkle the dough with flour, mist it again with spray oil, and cover the dough loosely with plastic wrap or a food-grade plastic bag. Now let rest for 2 hours. <br>
