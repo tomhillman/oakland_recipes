@@ -12,8 +12,8 @@ nav_order: 3
 Source: [The Bread Baker's Apprentice](https://www.indiebound.org/book/9781607748656) by Peter Reinhart, photo Bon Appetit.*
 <br>
 <br>
-Prep 🕘 20-40 minutes
-Cooking 🕘 2 hrs, make it a pizza party
+Prep 🕘 30 minutes day before<br> 
+Cooking 🕘 2 hrs (make it a pizza party)
 <br>
 <br>
 *serves 6 small-medium or 4 large pies*
@@ -42,9 +42,10 @@ Cooking 🕘 2 hrs, make it a pizza party
 <input type="checkbox" enabled /> 1 dash crushed red pepper flakes
 
 ### Toppings
-As preferred. A perennial favoriate: Fig jam with arugula, bacon, and goat cheese.
+As preferred. A perennial favoriate: Fig jam, arugula, bacon, and goat cheese.
 
 ## Preparation
+*Day before*
 
 ### Dough
 ####  Step 1
@@ -55,12 +56,14 @@ As preferred. A perennial favoriate: Fig jam with arugula, bacon, and goat chees
 <input type="checkbox" enabled /> Put the pan into the refrigerator overnight to rest the dough, or keep for up to 3 days. (Note: If you want to save some of the dough for future baking, you can store the dough balls in a zippered freezer bag. Dip each dough ball into a bowl that has a few tablespoons of oil in it, rolling the dough in the oil, and then put each ball into a separate bag. You can place the bags into the freezer for up to 3 months. Transfer them to the refrigerator the day before you plan to make pizza.)<br>
 
 ### Sauce
-
 ### Step 1
-<input type="checkbox" enabled /> Mix tomato paste, sauce, and seasonings together in a medium bowl or tupperware. <br>
+<input type="checkbox" enabled /> Mix tomato paste, sauce, and seasonings together in a medium saucepan. <br>
 ### Step 2
-<input type="checkbox" enabled /> . <br>
+<input type="checkbox" enabled /> Cook on low heat 10 minutes, stirring frequently. <br>
+### Step 3
+<input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer if made ahead. <br>
 
+*Day of*
 ### Bake
 ####  Step 1
 <input type="checkbox" enabled /> On the day you plan to make the pizza, remove the desired number of dough balls from the refrigerator 2 hours before making the pizza. Before letting the dough rest at room temperature for 2 hours, dust the counter with flour, and then mist the counter with spray oil. Place the dough balls on top of the floured counter and sprinkle them with flour; dust your hands with flour. Gently press the dough into flat disks about 1/2 inch thick and 5 inches in diameter. Sprinkle the dough with flour, mist it again with spray oil, and cover the dough loosely with plastic wrap or a food-grade plastic bag. Now let rest for 2 hours.<br>
