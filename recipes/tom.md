@@ -18,7 +18,6 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 <br>
 *serves 6-12 (6 medium pies)*
 <br>
-<br>
 ## Ingredients
 ### Dough
 <input type="checkbox" enabled /> 4 1/2 cups (20.25 ounces) unbleached high-gluten, bread, or all-purpose flour, chilled<br>
@@ -45,7 +44,7 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
 
 ## Preparation
-*Make the dough and sauce 1-3 days before pizza night.*
+Make the dough and sauce 1-3 days before pizza night.
 
 ### Dough
 ####  **Step 1**
