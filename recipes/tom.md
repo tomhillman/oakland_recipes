@@ -44,7 +44,6 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
 
 ## Preparation
-Make the dough and sauce 1-3 days before pizza night.
 
 ### Dough
 ####  **Step 1**
@@ -56,11 +55,11 @@ Make the dough and sauce 1-3 days before pizza night.
 
 ### Sauce
 #### **Step 1**
-<input type="checkbox" enabled /> Mix tomato paste, sauce, and seasonings together in a medium saucepan. <br>
+<input type="checkbox" enabled /> Mix the tomato paste, sauce, and seasonings together in a medium saucepan. <br>
 #### **Step 2**
-<input type="checkbox" enabled /> Cook on low heat 10 minutes, stirring frequently. <br>
+<input type="checkbox" enabled /> Cook the sauce on low heat for 10 minutes, stirring frequently. <br>
 #### **Step 3**
-<input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer up to three months. <br>
+<input type="checkbox" enabled /> Store the sauce in a tupperware in the refrigerator for up to a week, or freeze for up to 3 months and move to refrigherator the day before pizza night. <br>
 
 ### Bake
 ####  **Step 1**
