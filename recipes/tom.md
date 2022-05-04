@@ -61,7 +61,7 @@ As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza,
 #### **Step 2**
 <input type="checkbox" enabled /> Cook on low heat 10 minutes, stirring frequently. <br>
 #### **Step 3**
-<input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer if made ahead. <br>
+<input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer up to three months. <br>
 
 ### Bake
 ####  **Step 1**
