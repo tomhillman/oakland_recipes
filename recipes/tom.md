@@ -36,10 +36,10 @@ Cooking 🕘 1-2 hrs (make it a pizza party)
 <input type="checkbox" enabled /> ½ tsp garlic powder <br>
 <input type="checkbox" enabled /> ½ tsp onion powder <br>
 <input type="checkbox" enabled /> ½ tsp garlic salt <br>
-<input type="checkbox" enabled /> ¼ tsp salt <br>
-<input type="checkbox" enabled /> ¼ tsp freshly ground black pepper <br>
-<input type="checkbox" enabled /> 1 tsp sugar (or coconut sugar) <br>
-<input type="checkbox" enabled /> 1 dash crushed red pepper flakes
+<input type="checkbox" enabled /> ½ tsp sugar (or coconut sugar) <br>
+<input type="checkbox" enabled /> Dash salt <br>
+<input type="checkbox" enabled /> Dash freshly ground black pepper <br>
+<input type="checkbox" enabled /> Dash crushed red pepper flakes
 
 ### Toppings
 As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
