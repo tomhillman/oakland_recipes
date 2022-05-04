@@ -6,7 +6,7 @@ nav_order: 5
 ---
 <a id="top"></a> 
 # Citrus Chicken Rested in Herbs
-[![Photo of yummy Citrus Chicken Recipe on a dining plate](https://static.homesandproperty.co.uk/s3fs-public/thumbnails/image/2019/11/25/10/citruschickenalisonroman-0.jpg?width=990&auto=webp&quality=75)](https://www.alisoneroman.com/nothing-fancy)
+[![Photo of yummy Citrus Chicken Recipe on a dining plate](http://www.thekitchenscout.com/wp-content/uploads/2020/01/IMG_7472.jpg)](https://www.alisoneroman.com/nothing-fancy)
 <br>
 <br>
 Source: [Nothing Fancy](https://www.alisoneroman.com/nothing-fancy) by Alison Roman
