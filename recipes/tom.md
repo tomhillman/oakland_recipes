@@ -48,7 +48,7 @@ As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza,
 *Day before*
 
 ### Dough
-###  Step 1
+####  **Step 1**
 <input type="checkbox" enabled /> Stir together the flour, salt, and instant yeast in a 4-quart bowl (or in the bowl of an electric mixer). With a large metal spoon, stir in the oil and the cold water until the flour is all absorbed (or mix on low speed with the paddle attachment), If you are mixing by hand, repeatedly dip one of your hands or the metal spoon into cold water and use it, much like a dough hook, to work the dough vigorously into a smooth mass while rotating the bowl in a circular motion with the other hand. Reverse the circular motion a few times to develop the gluten further. Do this for 5 to 7 minutes, or until the dough is smooth and the ingredients are evenly distributed. If you are using an electric mixer, switch to the dough hook and mix on medium speed for 5 to 7 minutes, or as long as it takes to create a smooth, sticky dough. The dough should clear the sides of the bowl but stick to the bottom of the bowl. If the dough is too wet and doesn't come off the sides of the bowl, sprinkle in some more flour just until it clears the sides. If it clears the bottom of the bowl, dribble in a teaspoon or two of cold water. The finished dough will be springy, elastic, and sticky, not just tacky, and register 50 to 55F. <br>
 ###  Step 2
 <input type="checkbox" enabled /> Sprinkle flour on the counter and transfer the dough to the counter. Prepare a sheet pan by lining it with baking parchment and misting the parchment with spray oil (or lightly oil the parchment). Using a metal dough scraper, cut the dough into 6 equal pieces (or larger if you are comfortable shaping large pizzas), You can dip the scraper into the water between cuts to keep the dough from sticking to it, Sprinkle flour over the dough. Make sure your hands are dry and then flour them. Lift each piece and gently round it into a ball. If the dough sticks to your hands, dip your hands into the flour again. Transfer the dough balls to the sheet pan, Mist the dough generously with spray oil and slip the pan into a food-grade plastic bag. <br>
@@ -63,12 +63,12 @@ As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza,
 ### Step 3
 <input type="checkbox" enabled /> Store in tupperware in refrigerator overnight. Can store in freezer if made ahead. <br>
 
----
+
 *Day of*
 ### Bake
-###  Step 1
+####  **Step 1**
 <input type="checkbox" enabled /> On the day you plan to make the pizza, remove the desired number of dough balls from the refrigerator 2 hours before making the pizza. Before letting the dough rest at room temperature for 2 hours, dust the counter with flour, and then mist the counter with spray oil. Place the dough balls on top of the floured counter and sprinkle them with flour; dust your hands with flour. Gently press the dough into flat disks about 1/2 inch thick and 5 inches in diameter. Sprinkle the dough with flour, mist it again with spray oil, and cover the dough loosely with plastic wrap or a food-grade plastic bag. Now let rest for 2 hours. <br>
-###  Step 2
+####  **Step 2**
 <input type="checkbox" enabled /> At least 45 minutes before making the pizza, place a baking stone either on the floor of the oven (for gas ovens), or on a rack in the lower third of the oven. Heat the oven as hot as possible, up to 800F (most home ovens will go only to 500 to 550F, but some will go higher). If you do not have a baking stone, you can use the back of a sheet pan, but do not preheat the pan. <br>
 ###  Step 3
 <input type="checkbox" enabled /> Generously dust a peel or the back of a sheet pan with semolina flour or cornmeal. Make the pizzas one at a time. Dip your hands, including the backs of your hands and knuckles, in flour and lift I piece of dough by getting under it with a pastry scraper. Very gently lay the dough across your fists and carefully stretch it by bouncing the dough in a circular motion on your hands, carefully giving it a little stretch with each bounce. If it begins to stick to your hands, lay it down on the floured counter and reflour your hands, then continue shaping it. If you have trouble tossing the dough, or if the dough keeps springing back, let it rest for 5 to 20 minutes so the gluten can relax, and try again. You can also resort to using a rolling pin, though this isn't as effective. <br>
