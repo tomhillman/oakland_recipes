@@ -8,7 +8,7 @@ nav_order: 6
 # California Roll Sushi Bowls
 [![Photo of yummy california roll sushi bowl recipe on a dining plate](wendy_recipe.jpg)](https://www.cookingclassy.com/california-roll-sushi-bowls/)  
 <br>
-Source: Jaclyn, *[Cooking Classy](https://www.cookingclassy.com/california-roll-sushi-bowls/)*, via *[WholeFoods](https://www.wholefoodsmarket.com/recipes/california-roll-sushi-bowl)*
+Source: Jaclyn, *[Cooking Classy](https://www.cookingclassy.com/california-roll-sushi-bowls/)* (via *[WholeFoods](https://www.wholefoodsmarket.com/recipes/california-roll-sushi-bowl)*)
 <br>
 <br>
 Cooking 🕘 30 min
