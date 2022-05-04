@@ -16,7 +16,7 @@ Prep 🕘 30 minutes day before<br>
 Cooking 🕘 2 hrs (make it a pizza party)
 <br>
 <br>
-*serves 6 small-medium or 4 large pies*
+*serves 6 small/medium or 4 large pies*
 <br>
 <br>
 ## Ingredients
@@ -42,7 +42,7 @@ Cooking 🕘 2 hrs (make it a pizza party)
 <input type="checkbox" enabled /> 1 dash crushed red pepper flakes
 
 ### Toppings
-As preferred. A perennial favoriate: Fig jam, arugula, bacon, and goat cheese.
+As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza, swap the tomato sauce for fig jam and top with arugula, bacon, and goat cheese.
 
 ## Preparation
 *Day before*
