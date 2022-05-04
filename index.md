@@ -10,7 +10,7 @@ nav_order: 1
 Thanks for the Valentine's Day 💌. We really appreciated you sharing some 💓 from coast to coast. Our team pulled together a few of our favorite [recipes](recipes.md) to show our gratitude.
 <br>
 <br>
-**Stay safe**, and happy \(almost) spring 🌱🌺,
+**Stay safe**, and happy \(almost) spring,
 <br>
 <br>
 *The Mid-Atlantic Planning Team*
