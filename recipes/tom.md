@@ -59,7 +59,7 @@ As preferred. Perennial favorites: mushroom and spinach, or for a dessert pizza,
 #### **Step 2**
 <input type="checkbox" enabled /> Cook the sauce on low heat for 10 minutes, stirring frequently. <br>
 #### **Step 3**
-<input type="checkbox" enabled /> Store the sauce in a tupperware in the refrigerator for up to a week, or freeze for up to 3 months and move to refrigherator the day before pizza night. <br>
+<input type="checkbox" enabled /> Store the sauce in a tupperware in the refrigerator for up to a week, or freeze for up to 3 months and transfer to the refrigherator the day before pizza night. <br>
 
 ### Bake
 ####  **Step 1**
