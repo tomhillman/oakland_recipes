@@ -9,7 +9,7 @@ nav_order: 3
 ![Photo of yummy pizza](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_450,q_80,w_800/v1423770879/bonappetit_cook-like-a-pro-mario-batali-s-technique-to-classic-homemade-pizza.jpg)
 <br>
 <br>
-Source: *[The Bread Baker's Apprentice](https://www.indiebound.org/book/9781607748656)* by Peter Reinhart, photo *Bon Appetit.*
+Source: Peter Reinhart, *[The Bread Baker's Apprentice](https://www.indiebound.org/book/9781607748656)* (photo *Bon Appetit).*
 <br>
 <br>
 Prep 🕘 30 minutes day before<br> 
